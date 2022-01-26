@@ -1,0 +1,4 @@
+GET http://localhost:8080/book/978-7-111-55842-2
+Accept: application/json
+
+###
